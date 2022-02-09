@@ -22,10 +22,9 @@ Links to their own scroll page
 
 Their pages will have:
 -Photo of them
--Their service / product
+-Their server / prodct
 -A link to their own personal website
--(A form to write notes down while listening to podcast, or reading literature) we’ll see..
-
+-A form to write notes down while listening to podcats, or reading literature...well see..
 
 Add on for later
 
