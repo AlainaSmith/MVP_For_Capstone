@@ -21,11 +21,10 @@ Each teacher will each have their own card representing their knowledge
 Links to their own scroll page
 
 Their pages will have:
-
-Photo of them
-Their service / product
-A link to their own personal website
-(A form to write notes down while listening to podcast, or reading literature) we’ll see..
+-Photo of them
+-Their service / product
+-A link to their own personal website
+-(A form to write notes down while listening to podcast, or reading literature) we’ll see..
 
 
 Add on for later
