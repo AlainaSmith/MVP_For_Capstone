@@ -14,7 +14,7 @@ Login authentication | SQL - GET/POST - Formik
 Save cards as favorites to personal archive | SQL - POST/DELETE
 
 
-1 Page, all scrollable, clicking navbar will scroll you down to specific section
+Main home page, all scrollable, clicking navbar will scroll you down to specific section
 
 Each teacher will each have their own card representing their knowledge
 
