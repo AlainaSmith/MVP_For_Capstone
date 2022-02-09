@@ -22,7 +22,7 @@ Links to their own scroll page
 
 Their pages will have:
 -Photo of them
--Their server / prodct
+-Their service / prodct
 -A link to their own personal website
 -A form to write notes down while listening to podcats, or reading literature...well see..
 
